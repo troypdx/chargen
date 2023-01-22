@@ -11,5 +11,5 @@
     *               BY TROY SCOTT INSPIRED BY THE BASIC PROGRAM             *
     *                           BY JOSEPH C SPANN                           *
     *                      DRAGON MAGAZINE, JUNE 1983                       *
-    *                                                                       *
+    *              https://annarchive.com/files/Drmg074.pdf                 *
     *************************************************************************
