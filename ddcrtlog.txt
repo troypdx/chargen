@@ -1,0 +1,72 @@
+             \                  /               
+    _________))                ((_________      
+   /.-------./\    \    /    //\.-------.\     
+  //#######//##\   ))  ((   //##))#######\\    
+ //#######//###(( ((    ))  ))###\\########\\ 
+((#######((#####\  \\  //  //#####))########)) 
+ \##   ###\######\   \)(/  //#####/###`    ##/  
+  )      #)    ###\->oo<- /##      (#       (   
+         (         \`..` /          )           
+                    \""(                       
+                     - )                        
+                     / /                        
+                    ( /\                        
+                    /\| \                       
+                   (  \                         
+                       )                        
+                      /                         
+                     (                          
+                     `~                         
+
+-------------------------------------------------
+            DM'S PERSONNEL SERVICE              
+                 Version 1.0                     
+
+        PRODUCES CHAR. ABILITY SCORES            
+                     FOR                         
+             DUNGEONS & DRAGONS Tm               
+          3RD EDITION, DECEMBER 1979             
+             AKA THE 'BLUE BOOK'               
+
+       BY GARY GYGAX AND DAVE ARNESON            
+            EDITED BY ERIC HOLMES                
+
+        Dragon ASCII Art by Ed Zahurak           
+-------------------------------------------------
+13	- STRENGTH
+	 * ADD 1 TO ROLLS TO HIT, DAMAGE, OPEN DOORS
+13	- CONSTITUTION
+13	- DEXTERITY
+	 * SUBTRACT 1 FROM ARMOR CLASS.
+	 * ADD1TO MISSLE FIRE ROLLS 'TO HIT'
+14	- INTELLIGENCE
+	 * LITERATE AND FLUENT IN 2 LANGUAGES
+	 * 55% TO KNOW SPELL-MIN/MAX PER LVL:6/9
+12	- WISDOM
+	 * ADD0TO MAGIC-BASED SAVING THROW
+13	- CHARISMA
+	 * CAN HAVE5RETAINER(S) WITH MORALE OF5
+-------------------------------------------------
+PRESS Y TO ACCEPT CHARACTER ABILITIES
+OR ANY OTHER KEY TO RETRY: 
+Y
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+13	- STRENGTH
+	 * ADD 1 TO ROLLS TO HIT, DAMAGE, OPEN DOORS
+13	- CONSTITUTION
+13	- DEXTERITY
+	 * SUBTRACT 1 FROM ARMOR CLASS.
+	 * ADD1TO MISSLE FIRE ROLLS 'TO HIT'
+14	- INTELLIGENCE
+	 * LITERATE AND FLUENT IN 2 LANGUAGES
+	 * 55% TO KNOW SPELL-MIN/MAX PER LVL:6/9
+12	- WISDOM
+	 * ADD0TO MAGIC-BASED SAVING THROW
+13	- CHARISMA
+	 * CAN HAVE5RETAINER(S) WITH MORALE OF5

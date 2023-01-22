@@ -405,12 +405,6 @@ def writelog(LOG):
     for LINE in LOG:
         fout.write(LINE+'\n')
 
-    with open(NA+'.csv', mode='w') as char_file:
-    char_writer = csv.writer(char_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-
-    char_writer.writerow(['John Smith', 'Accounting', 'November'])
-    char_writer.writerow(['Erica Meyers', 'IT', 'March'])
-
 # -----------------------------------------------
 fout = open('ddcrtlog.txt', 'w')
 
