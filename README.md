@@ -2,7 +2,7 @@
     *                                                                       *
     *                   DUNGEON MASTER'S PERSONNEL SERVICE                  *
     *                 (40 COLUMN BY 16 LINE CRT DISPLAY ONLY )              *
-    *                   SAVE AS "ddcrt.py" - VERSION 1.0                    *
+    *                            SAVE AS "ddcrt.py"                         *
     *                                                                       *
     *************************************************************************
     *                GENERATES PLAYER CHARACTERISTICS FOR FANTASY           *
